@@ -37,8 +37,8 @@
 		</p>
 	</div>
   <h1>Hi there, I'm HqNw, aka Ahmed! 👋</h1>
-  <p>🚀 Backend Developer | ⚙️ System Applications Enthusiast | 🐧 Linux Lover</p>
-  <p>Passionate about building robust backend systems, diving deep into system-level programming, and exploring the world of operating systems. Always up for a new challenge!</p>
+  <p>🚀 Backend Developer | ⚙️ System Applications Enthusiast | 🐧 Linux Enjoyer</p>
+<!--   <p>Passionate about building robust backend systems, diving deep into system-level programming, and exploring the world of operating systems. Always up for a new challenge!</p> -->
 </div>
 
 ---
@@ -52,12 +52,12 @@
 ---
 
 <div align="center">
-  <h2>💻 My Tech Stack</h2>
+  <h2>💻 i love using</h2>
   <p>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<!--     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> -->
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (Future)" />
   </p>
@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <h2>📫 Let's Connect!</h2>
+<!--   <h2>📫 Let's Connect!</h2> -->
   <p>
     <a href="https://discord.com/users/393449062407340044">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
@@ -88,9 +88,9 @@
 ---
 
 
----
-
 <div align="center">
   <p>You're visitor number:</p>
   <img src="https://profile-counter.glitch.me/HqNw/count.svg" alt="Visitor Count" />
 </div>
+
+---
